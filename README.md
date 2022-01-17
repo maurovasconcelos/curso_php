@@ -1,2 +1,2 @@
-# curso_php
- Studying php
+# Curso de PHP
+ Estudando php
