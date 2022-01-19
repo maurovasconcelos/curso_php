@@ -18,3 +18,4 @@
     if (is_int($a)) {         
         echo "É um inteiro 3 <br>";
     }
+
